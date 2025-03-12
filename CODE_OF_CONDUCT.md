@@ -1,3 +1,5 @@
+[![Build](https://github.com/eclipse-platform/eclipse.platform.releng.buildtools/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/eclipse-platform/eclipse.platform.releng.buildtools/actions/workflows/dependabot/dependabot-updates)
+
 # Community Code of Conduct
 
 Project obeys latest version of the Eclipse Community Code of Conduct, available at https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php
